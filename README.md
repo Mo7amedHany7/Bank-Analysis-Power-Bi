@@ -32,13 +32,5 @@ An interactive, 6-page Power BI dashboard analyzing a bank's customers, transact
 ## 🛠️ Tools & Skills
 Power BI · DAX · Data Modeling · Data Cleaning · Data Visualization
 
-## 📁 Repository Contents
-- `Bank_Project.pbix`: Power BI report
-- `data/`: source datasets
-- `screenshots/`: dashboard pages
-
-## 🙏 Acknowledgements
-Thanks to [COMPANY NAME] and Eng. [ENGINEER NAME] for the guidance during this sprint.
-
 ## 👤 Author
-**Mohamed** | [LinkedIn profile link]
+**Mohamed Hany Sabry** | [https://www.linkedin.com/in/mohamed-hany-55ba76356]
